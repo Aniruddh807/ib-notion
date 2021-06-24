@@ -1,24 +1,24 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '22208159dc52443da19ca7db2ebac687',
+  rootNotionPageId: 'bd609e1d00c8401897e77ef3814e2a9b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: '06ac5e34-75cb-44bf-9855-feeb39231f7e',
+  rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'eliasbenb',
-  domain: 'ib.eliasbenb.cf',
-  author: 'Elias Benbourenane',
+  name: 'Aniruddh Krovvidi - Notes',
+  domain: 'ib.krovvidi.tk',
+  author: 'Aniruddh Krovvidi',
 
   // open graph metadata (optional)
-  description: 'eliasbenb',
-  socialImageTitle: 'eliasbenb',
-  socialImageSubtitle: 'eliasbenb',
+  description: 'aniruddh',
+  socialImageTitle: 'aniruddh',
+  socialImageSubtitle: 'aniruddh',
 
   // social usernames (optional)
   twitter: null,
-  github: 'eliasbenb',
+  github: null,
   linkedin: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
